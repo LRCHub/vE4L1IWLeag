@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "キラメキライダー☆",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2025-12-17T09:36:19.005275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キラメキライダー☆ (Bouquet ver.)",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/01_キラメキライダー☆_(Bouquet_ver.)_hololive_IDOL_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キラメキライダー☆",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/02_キラメキライダー☆_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キラメキライダー☆",
+      "artist": "Hololive",
+      "has_synced": true,
+      "path": "select/03_キラメキライダー☆_Hololive.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キラメキライダー☆",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_キラメキライダー☆_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
